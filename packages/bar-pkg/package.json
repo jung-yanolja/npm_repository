@@ -9,5 +9,8 @@
         "type": "git",
         "url": "https://github.com/lqt-leejunghyun/npm_repository/tree/master/packages/bar-pkg"
     },
-    "homepage": "https://www.yanolja.com/"
+    "homepage": "https://www.yanolja.com/",
+    "dependencies": {
+        "os": "^0.1.1"
+    }
 }
