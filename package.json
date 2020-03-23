@@ -2,6 +2,7 @@
     "name": "npm_repository",
     "version": "1.0.0",
     "devDependencies": {
-        "lerna": "^3.20.2"
+        "lerna": "^3.20.2",
+        "lerna-changelog": "^1.0.1"
     }
 }
