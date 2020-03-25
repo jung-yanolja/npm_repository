@@ -12,5 +12,6 @@
     "homepage": "https://www.yanolja.com/",
     "dependencies": {
         "os": "^0.1.1"
-    }
+    },
+    "gitHead": "2a7e40b6f50e859528faf279b8b9a43207cc33be"
 }
